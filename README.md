@@ -83,7 +83,7 @@ Este repositorio reúne los proyectos desarrollados durante mi formación en el 
 
 ---
 
-## 🔗 Ver proyecto online
+## 🔗 Ver proyectos online
 
 👉 [Juego del número Secreto](https://kateclysm.github.io/ONE_Secret_Number_Game)
 
