@@ -87,8 +87,14 @@ Este repositorio reúne los proyectos desarrollados durante mi formación en el 
 
 👉 [Juego del número Secreto](https://kateclysm.github.io/ONE_Secret_Number_Game)
 
+💠[Repositorio](https://github.com/KateClysm/ONE_Secret_Number_Game)
+
 👉 [Challenge Amigo Secreto](https://kateclysm.github.io/ONE_Challenge_Amigo_secreto)
 
+💠[Repositorio](https://github.com/KateClysm/ONE_Challenge_Amigo_secreto)
+
 👉 [Portfolio básico](https://kateclysm.github.io/ONE_Portfolio)
+
+💠[Repositorio](https://github.com/KateClysm/ONE_Portfolio)
 
 ---
